@@ -29,9 +29,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiningsudipto&" alt="shiningsudipto" /></p>
