@@ -30,3 +30,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiningsudipto&" alt="shiningsudipto" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiningsudipto" alt="shiningsudipto" /></a> </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shiningsudipto/count.svg" />
+</p>
