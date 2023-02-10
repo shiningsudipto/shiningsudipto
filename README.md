@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudipto Das</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiningsudipto" alt="shiningsudipto" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -28,3 +28,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiningsudipto&" alt="shiningsudipto" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiningsudipto" alt="shiningsudipto" /></a> </p>
