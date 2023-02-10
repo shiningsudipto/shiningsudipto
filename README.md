@@ -26,7 +26,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&locale=en" alt="shiningsudipto" /></p> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=radical)
-<!--Language--><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiningsudipto&show_icons=true&locale=en&layout=compact" alt="shiningsudipto" /></p>
+<!--Language--><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiningsudipto&show_icons=true&locale=en&layout=compact" alt="shiningsudipto" />
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiningsudipto&" alt="shiningsudipto" /></p>
