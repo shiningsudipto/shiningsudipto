@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiningsudipto](https://github.com/shiningsudipto)
 
-- 💬 Ask me about **Web Developing**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **shiningsudipto@gmail.com**
 
