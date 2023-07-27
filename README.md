@@ -78,8 +78,6 @@
 <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto&layout=compact"/>
 </p>
 
-### streak-stats
-
 <p align="center">
 <img align="center" src="https://streak-stats.demolab.com/?user=shiningsudipto"/>
 </p>
