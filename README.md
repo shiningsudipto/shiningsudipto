@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **MERN** 🔥 
 
 - 🔥 Some of my projects are below:
-> **React.JS Projects:**
+### **React.JS Projects:**
 1. ✔️ [**MEGAPIXEL**(an online school)](https://megapixel-78f33.web.app/)
 > **Technology Used:** React JS, Node JS, Express JS, MongoDB, JWT, Firebase, Stripe
 2. ✔️ [**Super Toys**(blogging site based on action toys)](https://super-toys-c5844.web.app/)
@@ -76,8 +76,8 @@
 ***
 
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=radical"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto&layout=compact"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=radical"/>
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto&layout=compact"/>
 </p>
 
 <p align="center">
