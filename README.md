@@ -15,8 +15,16 @@
 
 - 🌱 I’m currently learning **MERN** 🔥 
 
+- 🤝 I firmly believe in the power of collaboration and teamwork. I am open to collaborating with like-minded individuals on exciting projects that can make a positive impact on the world. I believe that the best solutions are born when talented minds come together to brainstorm and create.
+
+- 📚 As a lifelong learner, I am constantly seeking opportunities to enhance my skills and knowledge. Staying updated with the latest trends and best practices is essential to deliver top-notch solutions.
+
+- 📫 How to reach me **shiningsudipto@gmail.com**
+
+- ⚡ Fun fact **"Problem solving is another way to loose your depression"**
+
 - 🔥 Some of my projects are below:
-### **React.JS Projects:**
+### 📋 **React.JS Projects:**
 1. ✔️ [**MEGAPIXEL**(an online school)](https://megapixel-78f33.web.app/)
 > **Technology Used:** React JS, Node JS, Express JS, MongoDB, JWT, Firebase, Stripe
 2. ✔️ [**Super Toys**(blogging site based on action toys)](https://super-toys-c5844.web.app/)
@@ -28,13 +36,8 @@
 <!-- > **NextJS Projects:** -->
 <!-- > **Typescript Projects:** -->
 
-- 🤝 I firmly believe in the power of collaboration and teamwork. I am open to collaborating with like-minded individuals on exciting projects that can make a positive impact on the world. I believe that the best solutions are born when talented minds come together to brainstorm and create.
-
-- 📚 As a lifelong learner, I am constantly seeking opportunities to enhance my skills and knowledge. Staying updated with the latest trends and best practices is essential to deliver top-notch solutions.
-
-- 📫 How to reach me **shiningsudipto@gmail.com**
-
-- ⚡ Fun fact **"Problem solving is another way to loose your depression"**
+### 💼 **work experience:**
+- React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany/) ( joined 15th November 2023 )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,7 +79,7 @@
 ***
 
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=white"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto&layout=compact"/>
 </p>
 
