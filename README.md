@@ -36,7 +36,7 @@
 <!-- > **NextJS Projects:** -->
 <!-- > **Typescript Projects:** -->
 
-### 💼 **work experience:**
+### 💼 **Work Experience:**
 - React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany/) ( joined 15th November 2023 )
 
 <h3 align="left">Connect with me:</h3>
