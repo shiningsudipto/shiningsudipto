@@ -39,6 +39,9 @@
 ### 💼 **Work Experience:**
 - React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany/) ( joined 15th November 2023 )
 
+### 💼 **Work Experience:**
+- Frontend Developer at [Jayga](https://www.linkedin.com/company/kodezenteam/mycompany/](https://www.linkedin.com/company/jayga/) ( joined 1 Mar 2024 )
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shining-sudipto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shining-sudipto/" height="30" width="40" /></a>
