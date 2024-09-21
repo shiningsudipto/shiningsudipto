@@ -44,14 +44,15 @@
 <!-- > **Typescript Projects:** -->
 <!-- > **Backend** -->
 ### 📋 **Backends:**
-1. ✔️ [**Fitness Tools**(an e-commerce site)](https://assignment-4-ruddy-one.vercel.app)
+1. ✔️ [**Car Wash**(an e-commerce site)](https://car-wash-zeta-one.vercel.app)
+> github: [Car wash repository](https://github.com/shiningsudipto/car-wash)
+
+> **Technology Used:** Typescript, Express, Mongoose, MongoDB, Amar Pay
+2. ✔️ [**Fitness Tools**(an e-commerce site)](https://assignment-4-ruddy-one.vercel.app)
 > github: [Fitness tools repository](https://github.com/shiningsudipto/fitness-tools-server)
 
 > **Technology Used:** Typescript, Express, Mongoose, MongoDB
-1. ✔️ [**Fitness Tools**(an e-commerce site)](https://car-wash-zeta-one.vercel.app)
-> github: [Fitness tools repository](https://github.com/shiningsudipto/car-wash)
 
-> **Technology Used:** Typescript, Express, Mongoose, MongoDB, Amar Pay
 
 ### 💼 **Work Experience:**
 - React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany/) ( 15th November 2023 - Feb 2024 )
