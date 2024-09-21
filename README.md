@@ -44,7 +44,7 @@
 <!-- > **Typescript Projects:** -->
 <!-- > **Backend** -->
 ### 📋 **Backends:**
-1. ✔️ [**Car Wash**(an e-commerce site)](https://car-wash-zeta-one.vercel.app)
+1. ✔️ [**Car Wash**(service providing site)](https://car-wash-zeta-one.vercel.app)
 > github: [Car wash repository](https://github.com/shiningsudipto/car-wash)
 
 > **Technology Used:** Typescript, Express, Mongoose, MongoDB, Amar Pay
