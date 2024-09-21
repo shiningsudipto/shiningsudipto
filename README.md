@@ -39,7 +39,7 @@
 2. ✔️ [**Car Wash**(service providing site)](https://car-wash-zeta-one.vercel.app/)
 > github: [Car wash repository](https://github.com/shiningsudipto/car-wash)
 ### 📋 **Company Projects:**
-1. ✔️ [*JAYGA**(a booking site)](https://jayga.io/)
+1. ✔️ [**JAYGA**(a booking site)](https://jayga.io/)
 <!-- > **NextJS Projects:** -->
 <!-- > **Typescript Projects:** -->
 
