@@ -35,9 +35,9 @@
 > **Technology Used:** React JS, Node JS, Express JS, Firebase,
 ### 📋 **React+Typescript+Redux Projects:**
 1. ✔️ [**FITNESS TOOLS**(an e-commerce site)](https://fitness-tools-mu.vercel.app/)
-   github: [Fitness tools repository](https://github.com/shiningsudipto/fitness-tools-client)
-2. ✔️ [**CAR WASH**(service providing site)](https://car-wash-zeta-one.vercel.app/)
-   github: [Fitness tools repository](https://github.com/shiningsudipto/car-wash)
+> github: [Fitness tools repository](https://github.com/shiningsudipto/fitness-tools-client)
+2. ✔️ [**CAR WASH**(service providing site)]((https://car-wash-zeta-one.vercel.app/))
+> github: [Fitness tools repository](https://github.com/shiningsudipto/car-wash)
 ### 📋 **Company Projects:**
 1. ✔️ [*JAYGA**(a booking site)](https://jayga.io/)
 <!-- > **NextJS Projects:** -->
