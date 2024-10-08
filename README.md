@@ -106,7 +106,10 @@
 <img align="center" src="https://streak-stats.demolab.com/?user=shiningsudipto"/>
 </p>
 
+<p align="center">
 <a href="https://app.daily.dev/sudiptadas"><img src="https://api.daily.dev/devcards/v2/VZuX7S8fkSNcdqgqEJSYt.png?r=cp1&type=wide" width="652" alt="Sudipta Das's Dev Card"/></a>
+</p>
+
 
 ### Trophy
  
