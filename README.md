@@ -106,6 +106,8 @@
 <img align="center" src="https://streak-stats.demolab.com/?user=shiningsudipto"/>
 </p>
 
+<a href="https://app.daily.dev/sudiptadas"><img src="https://api.daily.dev/devcards/v2/VZuX7S8fkSNcdqgqEJSYt.png?r=cp1&type=wide" width="652" alt="Sudipta Das's Dev Card"/></a>
+
 ### Trophy
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=shiningsudipto)](https://github.com/ryo-ma/github-profile-trophy)
