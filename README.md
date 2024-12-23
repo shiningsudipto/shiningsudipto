@@ -29,20 +29,17 @@
 ### 📋 **Projects:**
 
 1. ✔️ [**Electro Hub**(an e-commerce site)](https://electro-hub-bd.netlify.app)
+
    > **Technology Used:** React JS, Redux, TailwindCSS, Material tailwind, Express JS, Prisma, PostgreSQL, JWT, Amarpay
-   > github:
-   - [Frontend repository](https://github.com/shiningsudipto/a9-client)
-   - [Backend repository](https://github.com/shiningsudipto/a9-server)
+
+   - github: [Frontend repository](https://github.com/shiningsudipto/a9-client) | [Backend repository](https://github.com/shiningsudipto/a9-server)
+
 2. ✔️ [**Ultimate Tripz**(a social media site)](https://ultimate-tripz.netlify.app)
    > **Technology Used:** Next JS, Shadcn, Redux, Express JS, MongoDB, JWT, Amarpay
-   > github:
-   - [Frontend repository](https://github.com/shiningsudipto/ultimate-tripz-frontend)
-   - [Backend repository](https://github.com/shiningsudipto/ultimate-tripz-backend)
+   - github: [Frontend repository](https://github.com/shiningsudipto/ultimate-tripz-frontend) | [Backend repository](https://github.com/shiningsudipto/ultimate-tripz-backend)
 3. ✔️ [**MEGAPIXEL**(an online school)](https://megapixel-78f33.web.app)
    > **Technology Used:** React JS, Node JS, Express JS, MongoDB, JWT, Firebase, Stripe
-   > github:
-   - [Frontend repository](https://github.com/shiningsudipto/Megapixel-Client-Side)
-   - [Backend repository](https://github.com/shiningsudipto/Megapixel-Server-Side)
+   - github: [Frontend repository](https://github.com/shiningsudipto/Megapixel-Client-Side) | [Backend repository](https://github.com/shiningsudipto/Megapixel-Server-Side)
 
 ### 📋 **Company Projects:**
 
