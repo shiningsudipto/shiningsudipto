@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/shiningsudipto/shiningsudipto/main/%23WebDeveloper%20%23FrontendDeveloper%20%23WebDevelopment%20%23FrontendDevelopment%20%23CodeNewbie%20%23CodeLife%20%23HTML%20%23CSS%20%23JavaScript%20%23UI%20%23UX%20%23ResponsiveDesign%20%23WebDesign%20%23WebDev%20%23Programming%20%23Coding%20%23TechLife%20%23DeveloperCommunity%20%23.png"/>
+<!-- <img src="https://raw.githubusercontent.com/shiningsudipto/shiningsudipto/main/%23WebDeveloper%20%23FrontendDeveloper%20%23WebDevelopment%20%23FrontendDevelopment%20%23CodeNewbie%20%23CodeLife%20%23HTML%20%23CSS%20%23JavaScript%20%23UI%20%23UX%20%23ResponsiveDesign%20%23WebDesign%20%23WebDev%20%23Programming%20%23Coding%20%23TechLife%20%23DeveloperCommunity%20%23.png"/> -->
+
+![Demo GIF](./assets/shiningsudipto-web-developer-mern-sudipta-das.gif)
 
 <!-- Name -->
 
