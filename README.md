@@ -1,19 +1,20 @@
 <img src="https://raw.githubusercontent.com/shiningsudipto/shiningsudipto/main/%23WebDeveloper%20%23FrontendDeveloper%20%23WebDevelopment%20%23FrontendDevelopment%20%23CodeNewbie%20%23CodeLife%20%23HTML%20%23CSS%20%23JavaScript%20%23UI%20%23UX%20%23ResponsiveDesign%20%23WebDesign%20%23WebDev%20%23Programming%20%23Coding%20%23TechLife%20%23DeveloperCommunity%20%23.png"/>
 
 <!-- Name -->
-***
+
+---
+
 <h1 align="center">Hey, I'm Sudipta Das</h1>
 <!-- Position -->
-<h2 align="center">MERN Developer</h2>
+<h2 align="center">MERN Stack Developer</h2>
 <!-- Additionals -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 - 👋 Hello there! I'm Sudipta Das, a passionate junior MERN stack developer with a strong love for coding and a thirst for continuous learning. My journey into the world of web development has been exhilarating, and I'm always eager to take on new challenges and broaden my horizons.
 
-- 🌱 I’m currently learning **MERN** 🔥 
+- 🌱 I’m focusing on **MERN Stack** 🔥
 
 - 🤝 I firmly believe in the power of collaboration and teamwork. I am open to collaborating with like-minded individuals on exciting projects that can make a positive impact on the world. I believe that the best solutions are born when talented minds come together to brainstorm and create.
 
@@ -24,34 +25,37 @@
 - ⚡ Fun fact **"Problem solving is another way to loose your depression"**
 
 - 🔥 Some of my projects are below:
-### 📋 **React.JS Projects:**
-1. ✔️ [**MEGAPIXEL**(an online school)](https://megapixel-78f33.web.app/)
-> **Technology Used:** React JS, Node JS, Express JS, MongoDB, JWT, Firebase, Stripe
-2. ✔️ [**Super Toys**(blogging site based on action toys)](https://super-toys-c5844.web.app/)
-> **Technology Used:** React JS, Node JS, Express JS, MongoDB, Firebase
-3. ✔️ [**Bistro Boss**(food ordering site)](https://bistro-restaurant-79be8.web.app/)
-> **Technology Used:** React JS, Node JS, Express JS, MongoDB, JWT, Firebase, Stripe
-4. ✔️ [**Dream Food**(food recipe website)](https://dream-food.web.app/)
-> **Technology Used:** React JS, Node JS, Express JS, Firebase,
-### 📋 **React+Typescript+Redux Projects:**
-1. ✔️ [**Car Wash**(service providing site)](https://car-wash-zeta-one.vercel.app/)
-> github: [Car wash repository](https://github.com/shiningsudipto/car-wash)
-2. ✔️ [**Fitness Tools**(an e-commerce site)](https://fitness-tools-mu.vercel.app/)
-> github: [Fitness tools repository](https://github.com/shiningsudipto/fitness-tools-client)
-### 📋 **Company Projects:**
-1. ✔️ [**JAYGA**(a booking site)](https://jayga.io/)
-<!-- > **NextJS Projects:** -->
-<!-- > **Typescript Projects:** -->
-<!-- > **Backend** -->
 
+### 📋 **Projects:**
+
+1. ✔️ [**Electro Hub**(an e-commerce site)](https://electro-hub-bd.netlify.app)
+   > **Technology Used:** React JS, Redux, TailwindCSS, Material tailwind, Express JS, Prisma, PostgreSQL, JWT, Amarpay
+   > github:
+   - [Frontend repository](https://github.com/shiningsudipto/a9-client)
+   - [Backend repository](https://github.com/shiningsudipto/a9-server)
+2. ✔️ [**Ultimate Tripz**(a social media site)](https://ultimate-tripz.netlify.app)
+   > **Technology Used:** Next JS, Shadcn, Redux, Express JS, MongoDB, JWT, Amarpay
+   > github:
+   - [Frontend repository](https://github.com/shiningsudipto/ultimate-tripz-frontend)
+   - [Backend repository](https://github.com/shiningsudipto/ultimate-tripz-backend)
+3. ✔️ [**MEGAPIXEL**(an online school)](https://megapixel-78f33.web.app)
+   > **Technology Used:** React JS, Node JS, Express JS, MongoDB, JWT, Firebase, Stripe
+   > github:
+   - [Frontend repository](https://github.com/shiningsudipto/Megapixel-Client-Side)
+   - [Backend repository](https://github.com/shiningsudipto/Megapixel-Server-Side)
+
+### 📋 **Company Projects:**
+
+1. ✔️ [**JAYGA**(a Warehouse Management System)](https://jayga.io/)
 
 ### 💼 **Work Experience:**
+
 - React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany/) ( 15th November 2023 - Feb 2024 )
 - Frontend Developer at [Jayga](https://www.linkedin.com/company/jayga/) ( joined 1 Mar 2024 )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shining-sudipto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shining-sudipto/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudiptadasweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shining-sudipto/" height="30" width="40" /></a>
 <a href="https://fb.com/shiningsudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiningsudipto" height="30" width="40" /></a>
 <a href="https://twitter.com/shiningsudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiningsudipto" height="30" width="40" /></a>
 <a href="https://instagram.com/shiningsudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiningsudipto" height="30" width="40" /></a>
@@ -81,12 +85,10 @@
 <h3 align="left">Familiar with:</h3>
 <p>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 </p>
 
-***
+---
 
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=white"/>
@@ -101,7 +103,6 @@
 <a href="https://app.daily.dev/sudiptadas"><img src="https://api.daily.dev/devcards/v2/VZuX7S8fkSNcdqgqEJSYt.png?r=cp1&type=wide" width="652" alt="Sudipta Das's Dev Card"/></a>
 </p>
 
-
 ### Trophy
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=shiningsudipto)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiningsudipto)](https://github.com/ryo-ma/github-profile-trophy)
