@@ -1,4 +1,4 @@
-![Demo GIF](./assets/shiningsudipto-web-developer-mern-sudipta-das.gif)
+![Demo GIF](./assets/shiningsudipto-web-developer-mern-sudipta-das-final.gif)
 
 <!-- Name -->
 
@@ -22,9 +22,14 @@
 
 - ⚡ Fun fact **"Problem solving is another way to loose your depression"**
 
-- 🔥 Some of my projects are below:
+### **Key Technologies I Work With:**
 
-### 📋 **Projects:**
+- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS, Bootstrap
+- **Backend:** Node.js, Express.js, Prisma, JWT, Mongoose
+- **Databases:** PostgreSQL, MongoDB
+- **Other:** Redux Toolkit, RTK Query, Zod, AmarPay, Strip
+
+### **🔥 Some of myProjects:**
 
 1. ✔️ [**Electro Hub**(an e-commerce site)](https://electro-hub-bd.netlify.app)
 
