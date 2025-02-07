@@ -48,6 +48,10 @@
 
 1. ✔️ [**JAYGA**(a Warehouse Management System)](https://jayga.io/)
 
+### 📋 **Freelance Projects:**
+
+1. ✔️ [**BHOJJO**(a Retailer e-commerce shop)](https://bhojjo.com)
+
 ### 💼 **Work Experience:**
 
 - React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany/) ( 15th November 2023 - Feb 2024 )
