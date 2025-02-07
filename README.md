@@ -55,7 +55,7 @@
 ### 💼 **Work Experience:**
 
 - React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany/) ( 15th November 2023 - Feb 2024 )
-<!-- - Frontend Developer at [Jayga](https://www.linkedin.com/company/jayga/) ( joined 1 Mar 2024 ) -->
+- Frontend Developer at [Jayga](https://www.linkedin.com/company/jayga/) ( joined 1 Mar 2024 )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
