@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 👋 Hello there! I'm Sudipta Das, a passionate junior MERN stack developer with a strong love for coding and a thirst for continuous learning. My journey into the world of web development has been exhilarating, and I'm always eager to take on new challenges and broaden my horizons.
+- 👋 Hello there! I'm Sudipta Das, a passionate MERN stack developer with a strong love for coding and a thirst for continuous learning. My journey into the world of web development has been exhilarating, and I'm always eager to take on new challenges and broaden my horizons.
 
 - 🌱 I’m focusing on **MERN Stack** 🔥
 
