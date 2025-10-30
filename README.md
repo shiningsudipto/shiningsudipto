@@ -57,7 +57,7 @@
 - React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany) ( 15th November 2023 - Feb 2024 )
 - Frontend Developer at [Jayga](https://www.linkedin.com/company/jayga) ( joined 1 Mar 2024 - September 2025 )
 - Frontend Developer at [DesklaGo](https://www.linkedin.com/company/desklago) ( joined 1 May 2025 )
-- Frontend Developer at [StrategyByte](https://www.linkedin.com/company/strategybyte) ( joined 15 September 2025 )
+- Full Stack Engineer at [StrategyByte](https://www.linkedin.com/company/strategybyte) ( joined 15 September 2025 )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
