@@ -1,16 +1,22 @@
-![Demo GIF](./assets/shiningsudipto-web-developer-mern-sudipta-das-final.gif)
+![Demo GIF](./assets/shiningsudipto,%20sudipta-das,%20sudiptadasweb.gif)
 
 <!-- Name -->
 
 <h1 align="center">Hey, I'm Sudipta Das</h1>
 <!-- Position -->
-<h2 align="center">Web Developer</h2>
+<h2 align="center">Full Stack Software Developer</h2>
 <!-- Additionals -->
+
+<p align="center">
+  <a href="./assets/sudipta-das-resume-july.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-PDF-orange?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 👋 Hello there! I'm Sudipta Das, a passionate MERN stack developer with a strong love for coding and a thirst for continuous learning. My journey into the world of web development has been exhilarating, and I'm always eager to take on new challenges and broaden my horizons.
+- 👋 Hello there! I'm Sudipta Das, a Full Stack Software Developer with 3+ years of experience building scalable web applications, SaaS platforms, and business solutions. Passionate about creating high-performance, user-centric products with clean architecture and modern development practices.
 
 - 🌱 I’m focusing on **MERN Stack** 🔥
 
@@ -22,89 +28,55 @@
 
 - ⚡ Fun fact **"Problem solving is another way to loose your depression"**
 
-### **Key Technologies I Work With:**
+### **Key Technologies & Skills I Work With:**
 
-- **Frontend:** React.js, Next.js, TypeScript, TailwindCSS, Bootstrap
-- **Backend:** Node.js, Express.js, Prisma, JWT, Mongoose
-- **Databases:** PostgreSQL, MongoDB
-- **Other:** Redux Toolkit, RTK Query, Zod, AmarPay, Strip
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn, Redux Toolkit, Zustand
+- **Backend:** Node.js, Express.js, Prisma ORM, JWT, REST API, GraphQL
+- **Database:** PostgreSQL, MongoDB, MySQL
+- **DevOps / Tools:** Docker, Git, GitHub, Linux, PM2, Nginx, Vercel, Postman, Headless CMS
+- **Other:** Technical SEO, Speed Optimisation, Stripe, Paystation, AmarPay, Figma
 
-### **🔥 Some of myProjects:**
+### **🔥 Projects:**
 
-1. ✔️ [**Electro Hub**(an e-commerce site)](https://electro-hub-bd.netlify.app)
+1. ✔️ [**Alex Rodriguez**](https://www.alexrodriguez.com.au) – Counselling Booking Platform
+   > **Technology Used:** Next.js, Redux, Shadcn, Node.js, Express.js, Prisma, PostgreSQL, Stripe
+   - Built a multi-step appointment booking platform with counsellor selection, real-time availability, and timezone-aware scheduling.
+   - Developed secure booking APIs, calendar integration, and payment workflows to streamline appointment management.
+   - Optimized user experience with responsive interfaces, dynamic slot generation, and efficient state management for seamless booking.
+   - **Links:** [Live Preview](https://www.alexrodriguez.com.au)
 
-   > **Technology Used:** React JS, Redux, TailwindCSS, Material tailwind, Express JS, Prisma, PostgreSQL, JWT, Amarpay
+2. ✔️ [**Paper Talk**](https://paper-talk.onrender.com) - AI Knowledge Assistant
+   > **Technology Used:** Next.js, WebSockets, Gemini API Key, Zustand, PDF parser, Mammoth, SheetJS, Playwright
+   - Architected a full-stack real-time AI assistant with voice, chat, document understanding, and WebSocket-based communication.
+   - Built a document-grounding pipeline to improve AI response quality while reducing API costs and latency.
+   - Designed a cross-modal conversation memory system that shared context seamlessly between voice and text sessions using incremental rolling summaries.
+   - **Links:** [Live Preview](https://paper-talk.onrender.com) | [GitHub Repository](https://github.com/shiningsudipto/paper-talk)
 
-   - github: [Frontend repository](https://github.com/shiningsudipto/a9-client) | [Backend repository](https://github.com/shiningsudipto/a9-server)
-
-2. ✔️ [**Ultimate Tripz**(a social media site)](https://ultimate-tripz.netlify.app)
-   > **Technology Used:** Next JS, Shadcn, Redux, Express JS, MongoDB, JWT, Amarpay
-   - github: [Frontend repository](https://github.com/shiningsudipto/ultimate-tripz-frontend) | [Backend repository](https://github.com/shiningsudipto/ultimate-tripz-backend)
-3. ✔️ [**MEGAPIXEL**(an online school)](https://megapixel-78f33.web.app)
-   > **Technology Used:** React JS, Node JS, Express JS, MongoDB, JWT, Firebase, Stripe
-   - github: [Frontend repository](https://github.com/shiningsudipto/Megapixel-Client-Side) | [Backend repository](https://github.com/shiningsudipto/Megapixel-Server-Side)
+3. ✔️ [**react-customizable-dropdown**](https://www.npmjs.com/package/react-customizable-dropdown) (NPM Package)
+   > **Technology Used:** React, TypeScript, npm
+   - Published an open-source React dropdown component package to npm.
+   - Built customizable features including search, multi-select, keyboard navigation, and theming.
+   - Designed for reusability, accessibility, and seamless integration into modern React applications.
+   - **Links:** [NPM Package](https://www.npmjs.com/package/react-customizable-dropdown) | [GitHub Repository](https://github.com/shiningsudipto/react-customizable-dropdown) | [Live Preview](https://react-customizable-dropdown.vercel.app/)
 
 ### 📋 **Company Projects:**
 
 1. ✔️ [**JAYGA**(a Warehouse Management System)](https://jayga.io/)
 
-### 📋 **Freelance Projects:**
-
-1. ✔️ [**BHOJJO**(a Retailer e-commerce shop)](https://bhojjo.com)
-
 ### 💼 **Work Experience:**
 
-- React Developer at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany) ( 15th November 2023 - Feb 2024 )
-- Frontend Developer at [Jayga](https://www.linkedin.com/company/jayga) ( joined 1 Mar 2024 - September 2025 )
-- Frontend Developer at [DesklaGo](https://www.linkedin.com/company/desklago) ( joined 1 May 2025 - August 2025 )
-- Full Stack Engineer at [StrategyByte](https://www.linkedin.com/company/strategybyte) ( joined 15 September 2025 )
+- **Full Stack Software Engineer** at [StrategyByte](https://www.linkedin.com/company/strategybyte) ( Oct 2025 - Present )
+  - Developed and maintained scalable full-stack web applications, building responsive frontends, secure REST APIs, and database-driven solutions for production environments.
+- **Frontend Developer** at [DesklaGo](https://www.linkedin.com/company/desklago) ( May 2025 - August 2025 )
+  - Developed and maintained responsive frontend interfaces and features.
+- **Frontend Developer** at [Jayga](https://www.linkedin.com/company/jayga) ( Mar 2024 - Aug 2025 )
+  - Developed and maintained scalable React applications, integrating REST APIs and delivering responsive, production-ready user interfaces for business platforms.
+- **React Developer (Intern)** at [Kodezen](https://www.linkedin.com/company/kodezenteam/mycompany) ( Nov 2023 - Feb 2024 )
+  - Developed reusable React components, implemented responsive user interfaces, and resolved UI bugs while collaborating with the development team.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sudiptadasweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shining-sudipto/" height="30" width="40" /></a>
 <a href="https://fb.com/shiningsudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiningsudipto" height="30" width="40" /></a>
-<a href="https://twitter.com/shiningsudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiningsudipto" height="30" width="40" /></a>
 <a href="https://instagram.com/shiningsudipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiningsudipto" height="30" width="40" /></a>
 </p>
-
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<!-- JavaScript -->
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
-
-<h3 align="left">Familiar with:</h3>
-<p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-</p>
-
----
-
-<p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shiningsudipto&show_icons=true&theme=white"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiningsudipto&layout=compact"/>
-</p>
-
-<p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=shiningsudipto"/>
-</p>
-
-### Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shiningsudipto)](https://github.com/ryo-ma/github-profile-trophy)
