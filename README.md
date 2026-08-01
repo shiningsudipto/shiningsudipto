@@ -59,6 +59,15 @@
    - Designed for reusability, accessibility, and seamless integration into modern React applications.
    - **Links:** [NPM Package](https://www.npmjs.com/package/react-customizable-dropdown) | [GitHub Repository](https://github.com/shiningsudipto/react-customizable-dropdown) | [Live Preview](https://react-customizable-dropdown.vercel.app/)
 
+4. ✔ [DIT](https://dit-bd.com) – Real Estate Platform & Lead Engine
+
+   | Technology Used: Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit, Node.js, Express.js, Prisma, MariaDB
+
+   ◦ Engineered a decoupled full-stack platform featuring role-based portals for admin management and client investment tracking.
+   ◦ Architected a relational MariaDB schema using Prisma ORM to map users, property units, pricing models, payment ledgers, and activity logs.
+   ◦ Implemented RTK Query state management alongside automated CI/CD deployment pipelines via GitHub Actions and FTPS/SSH.
+   ◦ Links: [Live Preview](https://dit-bd.com)
+
 ### 📋 **Company Projects:**
 
 1. ✔️ [**JAYGA**(a Warehouse Management System)](https://jayga.io/)
