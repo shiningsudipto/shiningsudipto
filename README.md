@@ -68,10 +68,6 @@
    - Implemented RTK Query state management alongside automated CI/CD deployment pipelines via GitHub Actions and FTPS/SSH.
    - Links: [Live Preview](https://dit-bd.com)
 
-### 📋 **Company Projects:**
-
-1. ✔️ [**JAYGA**(a Warehouse Management System)](https://jayga.io/)
-
 ### 💼 **Work Experience:**
 
 - **Full Stack Software Engineer** at [StrategyByte](https://www.linkedin.com/company/strategybyte) ( Oct 2025 - Present )
