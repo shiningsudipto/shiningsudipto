@@ -61,12 +61,12 @@
 
 4. ✔ [DIT](https://dit-bd.com) – Real Estate Platform & Lead Engine
 
-   | Technology Used: Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit, Node.js, Express.js, Prisma, MariaDB
+   > **Technology Used:** Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit, Node.js, Express.js, Prisma, MariaDB
 
-   ◦ Engineered a decoupled full-stack platform featuring role-based portals for admin management and client investment tracking.
-   ◦ Architected a relational MariaDB schema using Prisma ORM to map users, property units, pricing models, payment ledgers, and activity logs.
-   ◦ Implemented RTK Query state management alongside automated CI/CD deployment pipelines via GitHub Actions and FTPS/SSH.
-   ◦ Links: [Live Preview](https://dit-bd.com)
+   - Engineered a decoupled full-stack platform featuring role-based portals for admin management and client investment tracking.
+   - Architected a relational MariaDB schema using Prisma ORM to map users, property units, pricing models, payment ledgers, and activity logs.
+   - Implemented RTK Query state management alongside automated CI/CD deployment pipelines via GitHub Actions and FTPS/SSH.
+   - Links: [Live Preview](https://dit-bd.com)
 
 ### 📋 **Company Projects:**
 
