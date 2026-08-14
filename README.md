@@ -67,6 +67,15 @@
    - Architected a relational MariaDB schema using Prisma ORM to map users, property units, pricing models, payment ledgers, and activity logs.
    - Implemented RTK Query state management alongside automated CI/CD deployment pipelines via GitHub Actions and FTPS/SSH.
    - Links: [Live Preview](https://dit-bd.com)
+  
+5. ✔ [Teaching Doctors](https://www.teachingdoctors.com.au) – Full-Stack Medical E-Learning & Exam Platform
+
+   | Technology Used: Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, PostgreSQL, MongoDB, Redis, Stripe, LiveKit
+
+   ◦ Architected a full-stack ADC exam preparation platform with dual-database architecture (PostgreSQL for core relations, MongoDB for flexible quiz data).
+   ◦ Built real-time WebRTC live classrooms via LiveKit alongside a proctored, anti-cheat exam engine with background cron-job schedulers.
+   ◦ Integrated Stripe supporting multi-installment payment plans, Redis-backed single-session security, and a dedicated Next.js admin management console.
+   ◦ Links: [Live Preview](https://www.teachingdoctors.com.au)
 
 ### 💼 **Work Experience:**
 
