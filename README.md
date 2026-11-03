@@ -85,7 +85,7 @@
    - Implemented flexible video placement through custom positions, Elementor widgets, and shortcodes, with customizable thumbnails, playback controls, and spacing.
    - Optimized frontend performance with click-to-load video playback, responsive layouts, accessibility support, and compatibility with WooCommerce HPOS.
 
-   - **Links:** [WordPress Plugin](https://wordpress.org/plugins/prodivo-product-video-for-woocommerce/) | [GitHub Repository](https://github.com/shiningsudipto)(https://github.com/shiningsudipto/Prodivo-Product-Video-for-WooCommerce)
+   - **Links:** [WordPress Plugin](https://wordpress.org/plugins/prodivo-product-video-for-woocommerce/) | [GitHub Repository](https://github.com/shiningsudipto/Prodivo-Product-Video-for-WooCommerce)
 
 ### 💼 **Work Experience:**
 
