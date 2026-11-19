@@ -76,6 +76,15 @@
    - Built real-time WebRTC live classrooms via LiveKit alongside a proctored, anti-cheat exam engine with background cron-job schedulers.
    - Integrated Stripe supporting multi-installment payment plans, Redis-backed single-session security, and a dedicated Next.js admin management console.
    - Links: [Live Preview](https://www.teachingdoctors.com.au)
+    
+6. ✔ [STATA IT LIMITED](https://stataglobal.com) – Smart Home E-Commerce Platform
+
+  > Technology Used: WordPress, WooCommerce, Elementor, CSS
+
+  - Developed and customized a smart-home e-commerce platform showcasing smart switches, door locks, lighting, security systems, home appliances, and automation solutions.
+  - Customized the storefront UI, product categories, navigation, promotional banners, and product presentation to align with STATA's brand identity and smart-home ecosystem.
+  - Worked on e-commerce functionality, product discovery, shopping experience, and website optimization to create a user-friendly platform for customers exploring smart home solutions.
+  - Links: [Live Website](https://stataglobal.com)
 
 ### 💼 **Work Experience:**
 
