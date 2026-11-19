@@ -77,16 +77,6 @@
    - Integrated Stripe supporting multi-installment payment plans, Redis-backed single-session security, and a dedicated Next.js admin management console.
    - Links: [Live Preview](https://www.teachingdoctors.com.au)
 
-6. ✔️ [**Prodivo – Product Video for WooCommerce**](https://wordpress.org/plugins/prodivo-product-video-for-woocommerce/) – WordPress Plugin
-
-   > **Technology Used:** WordPress, PHP, JavaScript, CSS, WooCommerce, Elementor
-
-   - Developed a lightweight WooCommerce plugin that allows store owners to add product videos from Media Library, YouTube, Vimeo, and external video URLs.
-   - Implemented flexible video placement through custom positions, Elementor widgets, and shortcodes, with customizable thumbnails, playback controls, and spacing.
-   - Optimized frontend performance with click-to-load video playback, responsive layouts, accessibility support, and compatibility with WooCommerce HPOS.
-
-   - **Links:** [WordPress Plugin](https://wordpress.org/plugins/prodivo-product-video-for-woocommerce/) | [GitHub Repository](https://github.com/shiningsudipto/Prodivo-Product-Video-for-WooCommerce)
-
 ### 💼 **Work Experience:**
 
 - **Full Stack Software Engineer** at [StrategyByte](https://www.linkedin.com/company/strategybyte) ( Oct 2025 - Present )
